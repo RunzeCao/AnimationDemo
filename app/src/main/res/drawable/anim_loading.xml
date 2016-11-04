@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__00"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__01"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__02"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__03"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__04"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__05"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__06"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__07"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__08"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__09"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__10"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__11"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__12"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__13"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__14"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__15"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__16"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__17"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__18"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__19"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__20"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/apkol_loading_dot__21"
+        android:duration="50" />
+
+</animation-list>
