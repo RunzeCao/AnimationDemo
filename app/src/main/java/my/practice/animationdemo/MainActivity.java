@@ -26,6 +26,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(mContext, PropertyActivity.class));
     }
 
+    @OnClick(R.id.timer)
+    void goTimer() {
+        startActivity(new Intent(mContext, TimerActivity.class));
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
